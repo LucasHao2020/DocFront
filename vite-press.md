@@ -242,4 +242,4 @@ jobs:
 
 * 查看部署后的文档访问地址,点击地址便可以看到不出成功后的路由地址，访问地址便能成功看到部署成功以后的vitepress文档
 
-![githubSuccessVitepress.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8db745a35c8f435db0c7a6c55168817c~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1897&h=1027&s=64173&e=png&b=ffffff)
+![img_2.png](img_2.png)
