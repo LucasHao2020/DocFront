@@ -11,8 +11,8 @@ hero:
       text: WebStorm快捷键
       link: /webstorm-key
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub Pages部署VitePress
+      link:  /vite-press
 
 features:
   - title: node切换
