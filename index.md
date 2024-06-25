@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "前端进阶"
-  text: "打包工具学习"
+  name: "前端研发4部"
+  text: "前端进阶"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -16,10 +16,11 @@ hero:
 
 features:
   - title: node切换
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: node切换中的问题
     link: /node-change
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: ios fileInput中的兼容问题
+    details: ios出现fileInput可以触发拍照，但是无法触发onchange事件
+    link: /ios-file-input
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
